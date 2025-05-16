@@ -1,0 +1,39 @@
+# PrestaShop Demo - Manual Testing Project
+
+## Project Overview
+This project covers manual testing of the PrestaShop demo e-commerce website (https://demo.prestashop.com/). The main goal was to validate key functionalities such as user registration, product browsing, cart management, checkout process, and UI responsiveness.
+
+## Tools Used
+- Browsers: Chrome, Firefox  
+- Bug Tracking: Jira (or Excel)  
+- Test Documentation: Excel, Word
+
+## Test Artifacts Included
+- Test Plan  
+- Test Scenarios  
+- Test Cases  
+- Bug Report  
+- Test Summary Report
+
+## Test Coverage
+- User Registration and Login  
+- Product Search and Filters  
+- Shopping Cart Operations (Add, Update, Remove)  
+- Checkout (Guest and Registered User)  
+- Newsletter Subscription  
+- Contact Form Submission  
+- UI/UX and Cross-browser Testing
+
+## How to Use
+1. Review the test documents to understand test coverage and execution details.  
+2. Use the bug report to track identified issues.  
+3. Refer to the summary report for overall test outcomes and observations.
+
+## Conclusion
+The manual testing executed during this project helped identify some functional and UI issues that impact user experience. The majority of core features worked as expected, ensuring a stable baseline for further testing or automation.
+
+---
+
+Feel free to customize it with links to your actual files once uploaded!
+
+If you want, I can help you format this README nicely or generate any other files for your GitHub repo. Just let me know!
